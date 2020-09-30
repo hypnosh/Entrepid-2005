@@ -1,0 +1,17 @@
+Clsresultset = 0, 0, 0, 0, C
+ClsConnection = 132, 132, 936, 541, C
+frmStatements = 198, 198, 1002, 607, , 176, 176, 958, 656, C
+frmConsultant = 0, 0, 0, 0, C, 198, 198, 980, 678, C
+frmLogin = 0, 0, 0, 0, C, 132, 132, 914, 612, C
+mdlVariables = 0, 0, 804, 409, 
+frmFactoryScreen = 0, 0, 0, 0, C, 0, 0, 782, 480, C
+frmGraph = 0, 0, 0, 0, C, 22, 22, 804, 502, C
+frmShipmentScreen = 0, 0, 0, 0, C, 44, 44, 826, 524, C
+frmSplash = 0, 0, 0, 0, C, 66, 66, 848, 546, C
+frmRepaymentInfo = 0, 0, 0, 0, C, 88, 88, 870, 568, C
+frmTeam = 0, 0, 0, 0, C, 110, 110, 892, 590, C
+frmDataCommitted = 0, 0, 0, 0, C, 132, 132, 914, 612, C
+frmNews = 0, 0, 0, 0, C, 154, 154, 936, 634, C
+frmUpgrade = 44, 44, 826, 524, , 88, 88, 870, 568, C
+frmMarketScreen = 110, 110, 981, 525, , 154, 154, 936, 634, C
+frmMain = 22, 22, 893, 437, , 176, 176, 958, 656, C
